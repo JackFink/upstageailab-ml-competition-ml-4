@@ -1,22 +1,22 @@
-# Title (Please modify the title)
+# ML Team 4
 
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![이찬](https://avatars.githubusercontent.com/u/100181857?v=4) | ![김광묵](https://avatars.githubusercontent.com/u/20352532?v=4) | ![송인섭](https://avatars.githubusercontent.com/u/22423127?v=4) | ![이건희](https://avatars.githubusercontent.com/u/213379929?v=4) | ![임예슬](https://avatars.githubusercontent.com/u/113421456?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
+|            [이찬](https://github.com/SKKULEE)             |            [김광묵](https://github.com/JackFink)             |            [송인섭](https://github.com/SongInseob)             |            [이건희](https://github.com/Ai14gi)             |            [임예슬](https://github.com/joy007fun)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 1. Competiton Info
 
 ### Overview
 
-- _Write competition information_
+- This repository is established to participate in _Upstage_ **House Price Prediction Competition**.
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- July 07th, 2025 - Start Date
+- July 17th, 2025 - Final submission deadline
 
 ### Evaluation
 
