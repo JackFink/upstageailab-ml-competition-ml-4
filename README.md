@@ -5,7 +5,7 @@
 | ![이찬](https://avatars.githubusercontent.com/u/100181857?v=4) | ![김광묵](https://avatars.githubusercontent.com/u/20352532?v=4) | ![송인섭](https://avatars.githubusercontent.com/u/22423127?v=4) | ![이건희](https://avatars.githubusercontent.com/u/213379929?v=4) | ![임예슬](https://avatars.githubusercontent.com/u/113421456?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [이찬](https://github.com/SKKULEE)             |            [김광묵](https://github.com/JackFink)             |            [송인섭](https://github.com/SongInseob)             |            [이건희](https://github.com/Ai14gi)             |            [임예슬](https://github.com/joy007fun)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|                            팀장, 담당 역할                             |                            XGboost                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
 ## 1. Competiton Info
 
